@@ -1,4 +1,5 @@
 # dsc-project2-movie-studio
+![Movie](../../ideas/John-Wick-2-900x0-c-default.jpg)
 
 ## Movie Genre Analysis ReadMe
 ### Overview
@@ -41,10 +42,14 @@ This project aims to analyze movie genres to provide actionable insights for a n
 #### Visualizations
 
     Distribution of Movie Ratings: Shows the frequency of average ratings across all movies.
-    ![Distribution of Movie Ratings](C:\Users\omend\Documents\Flatiron\dsc-phase2-project-movie-studio\VIsualizations\Distribution_of_movie_ratings.png)
+![Distribution of Movie Ratings](./images/Aircraft_damage_vs_Number_of_engines.png)
     
     Foreign Gross by Genre: Compares total and average foreign gross revenues for different genres.
+![Foreign Gross](./VIsualizations/Total_foreign_and_average_gross_by_genre.png)
+
     Domestic Gross by Genre: Highlights the top genres by total and average domestic gross revenues.
+![DomesticGross](./VIsualizations/Top_10_Genres_by_domestic_gross.png)
+![DomesticGross](./VIsualizations/Top_10_Genres_by_domestic_gross.png)
 
 #### Recommendations
 
@@ -54,11 +59,12 @@ This project aims to analyze movie genres to provide actionable insights for a n
 
 #### Contributor
 
-    [Orangel Mendez]: (omendez30@gmail.com)
+    Orangel Mendez: omendez30@gmail.com
 
 Tableau Dashboard
 
 [Movie Dashboard](https://public.tableau.com/app/profile/orangel.mendez/viz/Movie_analysis_17228284132480/Dashboard1?publish=yes)
+
 Usage
 
 To reproduce the analysis and visualizations, follow these steps:
