@@ -1,7 +1,7 @@
 # dsc-project2-movie-studio
 ![Movie](./VIsualizations/John-Wick-2-900x0-c-default.jpg)
 
-## Movie Genre Analysis ReadMe
+## Movie Genre Analysis
 ### Overview
 
 This project aims to analyze movie genres to provide actionable insights for a new movie studio. By understanding which genres perform the best both domestically and internationally, the studio can make informed decisions about the types of films to produce. The analysis focuses on key performance metrics such as average ratings, number of votes, and gross revenues to identify the most profitable and popular genres.
