@@ -1,5 +1,5 @@
 # dsc-project2-movie-studio
-![Movie](../../ideas/John-Wick-2-900x0-c-default.jpg)
+![Movie](./VIsualizations/John-Wick-2-900x0-c-default.jpg)
 
 ## Movie Genre Analysis ReadMe
 ### Overview
@@ -42,7 +42,7 @@ This project aims to analyze movie genres to provide actionable insights for a n
 #### Visualizations
 
     Distribution of Movie Ratings: Shows the frequency of average ratings across all movies.
-![Distribution of Movie Ratings](./images/Aircraft_damage_vs_Number_of_engines.png)
+![Distribution of Movie Ratings](./VIsualizations/Distribution_of_movie_ratings.png)
     
     Foreign Gross by Genre: Compares total and average foreign gross revenues for different genres.
 ![Foreign Gross](./VIsualizations/Total_foreign_and_average_gross_by_genre.png)
