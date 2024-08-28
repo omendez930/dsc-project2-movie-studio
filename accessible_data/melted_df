@@ -1,0 +1,199 @@
+,director,Type,Amount
+0,Alan Alda,production_budget,30272155.172413792
+1,Alan Hale,production_budget,29958210.52631579
+2,Allen Hughes|Albert Hughes,production_budget,30831602.379310343
+3,Allison Anders,production_budget,34723620.68965517
+4,Anatole Litvak,production_budget,30344900.810344826
+5,Andy Sidaris,production_budget,31125862.068965517
+6,Barry Levinson,production_budget,34498062.24137931
+7,Ben Younger,production_budget,30101754.38596491
+8,Bill Froehlich,production_budget,30713189.655172415
+9,Bruce Beresford,production_budget,30231526.315789472
+10,Carl Erik Rinsch,production_budget,32553086.20689655
+11,Cheryl Dunye,production_budget,30101754.38596491
+12,David Arquette,production_budget,31587982.75862069
+13,David Cronenberg,production_budget,35392482.75862069
+14,Edward Dmytryk,production_budget,31145862.068965517
+15,Ernst Lubitsch,production_budget,30101754.38596491
+16,Frank Marshall,production_budget,33335431.03448276
+17,George Hickenlooper,production_budget,32998448.275862068
+18,Henning Schellerup,production_budget,30892327.586206898
+19,Herbert Wilcox,production_budget,30183034.649122808
+20,Ira Miller,production_budget,30323689.655172415
+21,Ivan Nagy,production_budget,31105068.96551724
+22,Jake Kasdan,production_budget,34316879.31034483
+23,James Gray,production_budget,30071760.03448276
+24,James Wong,production_budget,30673189.655172415
+25,Jay Russell,production_budget,34374275.862068966
+26,Jim Jarmusch,production_budget,32513362.068965517
+27,John Gilling,production_budget,30114958.228070177
+28,John Sayles,production_budget,31532620.689655174
+29,John Woo,production_budget,31942327.586206898
+30,Jon Turteltaub,production_budget,31028706.896551725
+31,Keith Gordon,production_budget,32011896.55172414
+32,Ken Loach,production_budget,31491034.48275862
+33,Kevin Lima,production_budget,30506241.379310343
+34,Martyn Burke,production_budget,32281375.862068966
+35,Matt Bettinelli-Olpin|Tyler Gillett,production_budget,30374827.586206898
+36,Michael Polish,production_budget,31820706.896551725
+37,Niels Arden Oplev,production_budget,30478448.275862068
+38,Otto Preminger,production_budget,30258017.24137931
+39,Paolo Sorrentino,production_budget,30925379.310344826
+40,Pat Proft,production_budget,30521023.672413792
+41,Patrick Lussier,production_budget,30117777.689655174
+42,Pauly Shore,production_budget,31329431.03448276
+43,Peter Baldwin,production_budget,33053620.689655174
+44,Peter Cattaneo,production_budget,31291465.51724138
+45,Ray Lawrence,production_budget,33657931.03448276
+46,Richard Kelly,production_budget,29893706.0
+47,Richard Linklater,production_budget,30030736.842105262
+48,Rick Rosenthal,production_budget,32648170.810344826
+49,Rodney Bennett,production_budget,34376431.03448276
+50,Roy Rowland,production_budget,30369962.98245614
+51,Roy Ward Baker,production_budget,31589741.379310343
+52,Steve Boyum,production_budget,31308741.379310343
+53,Steven Spielberg,production_budget,30295431.03448276
+54,Taylor Hackford,production_budget,33614827.5862069
+55,Ted Tetzlaff,production_budget,30271929.824561402
+56,Terence Young,production_budget,31092155.172413792
+57,Terry Jones,production_budget,30171586.20689655
+58,Tom Hanks,production_budget,30078272.155172415
+59,Werner Herzog,production_budget,30062155.172413792
+60,Willem van de Sande Bakhuyzen,production_budget,29955508.771929823
+61,William Beaudine,production_budget,30250877.192982458
+62,William Friedkin,production_budget,34912318.96551724
+63,William Wellman,production_budget,31340810.344827585
+64,Woody Allen,production_budget,30778448.275862068
+65,Yimou Zhang,production_budget,30730660.344827585
+66,Alan Alda,domestic_gross,42143985.68965517
+67,Alan Hale,domestic_gross,38441137.10526316
+68,Allen Hughes|Albert Hughes,domestic_gross,47983121.79310345
+69,Allison Anders,domestic_gross,49487599.62068965
+70,Anatole Litvak,domestic_gross,50548897.62068965
+71,Andy Sidaris,domestic_gross,41857215.31034483
+72,Barry Levinson,domestic_gross,52442193.18965517
+73,Ben Younger,domestic_gross,35710453.614035085
+74,Bill Froehlich,domestic_gross,50129493.77586207
+75,Bruce Beresford,domestic_gross,40365566.21052632
+76,Carl Erik Rinsch,domestic_gross,51866054.637931034
+77,Cheryl Dunye,domestic_gross,38986890.508771926
+78,David Arquette,domestic_gross,41733675.81034483
+79,David Cronenberg,domestic_gross,30409082.275862068
+80,Edward Dmytryk,domestic_gross,42674937.172413796
+81,Ernst Lubitsch,domestic_gross,47164451.333333336
+82,Frank Marshall,domestic_gross,42483377.24137931
+83,George Hickenlooper,domestic_gross,37902994.53448276
+84,Henning Schellerup,domestic_gross,39904524.37931035
+85,Herbert Wilcox,domestic_gross,40367150.19298246
+86,Ira Miller,domestic_gross,47868213.137931034
+87,Ivan Nagy,domestic_gross,41107593.948275864
+88,Jake Kasdan,domestic_gross,32736777.396551725
+89,James Gray,domestic_gross,33658991.637931034
+90,James Wong,domestic_gross,45236976.31034483
+91,Jay Russell,domestic_gross,35666330.862068966
+92,Jim Jarmusch,domestic_gross,56951594.31034483
+93,John Gilling,domestic_gross,44974812.15789474
+94,John Sayles,domestic_gross,39935779.172413796
+95,John Woo,domestic_gross,41715634.89655172
+96,Jon Turteltaub,domestic_gross,36055553.75862069
+97,Keith Gordon,domestic_gross,40923728.4137931
+98,Ken Loach,domestic_gross,38084831.5862069
+99,Kevin Lima,domestic_gross,47141037.362068966
+100,Martyn Burke,domestic_gross,42770283.25862069
+101,Matt Bettinelli-Olpin|Tyler Gillett,domestic_gross,47159904.60344828
+102,Michael Polish,domestic_gross,40682895.06896552
+103,Niels Arden Oplev,domestic_gross,44118242.5
+104,Otto Preminger,domestic_gross,41202815.344827585
+105,Paolo Sorrentino,domestic_gross,41235049.31034483
+106,Pat Proft,domestic_gross,47774118.10344828
+107,Patrick Lussier,domestic_gross,47449512.39655172
+108,Pauly Shore,domestic_gross,48380576.31034483
+109,Peter Baldwin,domestic_gross,30512078.20689655
+110,Peter Cattaneo,domestic_gross,45061775.5862069
+111,Ray Lawrence,domestic_gross,36962876.362068966
+112,Richard Kelly,domestic_gross,47266940.48275862
+113,Richard Linklater,domestic_gross,39777523.701754384
+114,Rick Rosenthal,domestic_gross,34812686.9137931
+115,Rodney Bennett,domestic_gross,49548597.74137931
+116,Roy Rowland,domestic_gross,44763171.24561404
+117,Roy Ward Baker,domestic_gross,53461975.551724136
+118,Steve Boyum,domestic_gross,45181591.155172415
+119,Steven Spielberg,domestic_gross,45168098.862068966
+120,Taylor Hackford,domestic_gross,43112876.0862069
+121,Ted Tetzlaff,domestic_gross,46818641.84210526
+122,Terence Young,domestic_gross,34265173.9137931
+123,Terry Jones,domestic_gross,42001356.362068966
+124,Tom Hanks,domestic_gross,42098820.12068965
+125,Werner Herzog,domestic_gross,31634779.310344826
+126,Willem van de Sande Bakhuyzen,domestic_gross,34433136.385964915
+127,William Beaudine,domestic_gross,48327014.24561404
+128,William Friedkin,domestic_gross,39579689.25862069
+129,William Wellman,domestic_gross,53114255.362068966
+130,Woody Allen,domestic_gross,41287560.77586207
+131,Yimou Zhang,domestic_gross,42115309.24137931
+132,Alan Alda,worldwide_gross,88876855.18965517
+133,Alan Hale,worldwide_gross,85879324.94736843
+134,Allen Hughes|Albert Hughes,worldwide_gross,113974789.0862069
+135,Allison Anders,worldwide_gross,105456593.01724137
+136,Anatole Litvak,worldwide_gross,116431466.5
+137,Andy Sidaris,worldwide_gross,92337094.70689656
+138,Barry Levinson,worldwide_gross,112534160.44827586
+139,Ben Younger,worldwide_gross,73244438.01754385
+140,Bill Froehlich,worldwide_gross,111284063.86206897
+141,Bruce Beresford,worldwide_gross,70163281.70175439
+142,Carl Erik Rinsch,worldwide_gross,124017730.6724138
+143,Cheryl Dunye,worldwide_gross,72592309.66666667
+144,David Arquette,worldwide_gross,92259380.37931034
+145,David Cronenberg,worldwide_gross,78484880.56896552
+146,Edward Dmytryk,worldwide_gross,88364969.13793103
+147,Ernst Lubitsch,worldwide_gross,91770251.68421052
+148,Frank Marshall,worldwide_gross,87392982.10344827
+149,George Hickenlooper,worldwide_gross,85729773.46551724
+150,Henning Schellerup,worldwide_gross,90017853.68965517
+151,Herbert Wilcox,worldwide_gross,92797093.15789473
+152,Ira Miller,worldwide_gross,101379796.3275862
+153,Ivan Nagy,worldwide_gross,84436775.62068966
+154,Jake Kasdan,worldwide_gross,76672859.43103448
+155,James Gray,worldwide_gross,62690386.89655172
+156,James Wong,worldwide_gross,98568749.48275863
+157,Jay Russell,worldwide_gross,83986047.1724138
+158,Jim Jarmusch,worldwide_gross,131687544.7586207
+159,John Gilling,worldwide_gross,89348366.61403508
+160,John Sayles,worldwide_gross,88722027.4137931
+161,John Woo,worldwide_gross,92483131.46551724
+162,Jon Turteltaub,worldwide_gross,87579638.56896552
+163,Keith Gordon,worldwide_gross,96443237.3275862
+164,Ken Loach,worldwide_gross,81581093.7586207
+165,Kevin Lima,worldwide_gross,103068720.39655173
+166,Martyn Burke,worldwide_gross,87758400.84482759
+167,Matt Bettinelli-Olpin|Tyler Gillett,worldwide_gross,102644516.03448276
+168,Michael Polish,worldwide_gross,89345703.70689656
+169,Niels Arden Oplev,worldwide_gross,85180615.2413793
+170,Otto Preminger,worldwide_gross,84674202.36206897
+171,Paolo Sorrentino,worldwide_gross,89067486.87931034
+172,Pat Proft,worldwide_gross,108969705.22413793
+173,Patrick Lussier,worldwide_gross,96498571.8275862
+174,Pauly Shore,worldwide_gross,90895363.1724138
+175,Peter Baldwin,worldwide_gross,71730525.63793103
+176,Peter Cattaneo,worldwide_gross,101034745.72413793
+177,Ray Lawrence,worldwide_gross,88546186.5
+178,Richard Kelly,worldwide_gross,101636537.55172414
+179,Richard Linklater,worldwide_gross,86829125.26315789
+180,Rick Rosenthal,worldwide_gross,75140168.06896552
+181,Rodney Bennett,worldwide_gross,105675961.70689656
+182,Roy Rowland,worldwide_gross,96923740.21052632
+183,Roy Ward Baker,worldwide_gross,112348965.2413793
+184,Steve Boyum,worldwide_gross,92782689.46551724
+185,Steven Spielberg,worldwide_gross,92542881.12068966
+186,Taylor Hackford,worldwide_gross,101970324.03448276
+187,Ted Tetzlaff,worldwide_gross,95289049.75438596
+188,Terence Young,worldwide_gross,78492010.81034483
+189,Terry Jones,worldwide_gross,89749591.31034483
+190,Tom Hanks,worldwide_gross,87416392.81034483
+191,Werner Herzog,worldwide_gross,65911810.4137931
+192,Willem van de Sande Bakhuyzen,worldwide_gross,75260775.57894737
+193,William Beaudine,worldwide_gross,102823434.91228071
+194,William Friedkin,worldwide_gross,55355196.922413796
+195,William Wellman,worldwide_gross,58906837.0862069
+196,Woody Allen,worldwide_gross,84300870.70689656
+197,Yimou Zhang,worldwide_gross,100916857.39655173
