@@ -1,4 +1,4 @@
-# dsc-project2-movie-studio
+# Movie Studio Analysis
 ![Movie](./VIsualizations/John-Wick-2-900x0-c-default.jpg)
 
 ## Movie Genre Analysis
@@ -61,9 +61,9 @@ This project aims to analyze movie genres to provide actionable insights for a n
 
     Orangel Mendez: omendez30@gmail.com
 
-Tableau Dashboard
+### Tableau Dashboard
 
-[Movie Dashboard](https://public.tableau.com/app/profile/orangel.mendez/viz/Movie_analysis_17228284132480/Dashboard1?publish=yes)
+[Movie Dashboard](https://public.tableau.com/app/profile/orangel.mendez/viz/Movie_analysis_revised/Movie_Analysis_Dashboard?publish=yes)
 
 Usage
 
